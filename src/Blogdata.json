@@ -1,0 +1,20 @@
+[
+    {
+            "imagesss": "https://www.shutterstock.com/image-photo/facial-cosmetic-products-containers-on-600nw-2566963627.jpg",
+            "title": "Product one",
+            "price": "200",
+            "button": "Add to Cart"
+    },
+    {
+            "imagesss": "https://www.shutterstock.com/image-photo/facial-cosmetic-products-containers-on-600nw-2566963627.jpg",
+            "title": "Product two",
+            "price": "5656",
+            "button": "Add to Cart"
+    },
+    {
+            "imagesss": "https://www.shutterstock.com/image-photo/facial-cosmetic-products-containers-on-600nw-2566963627.jpg",
+            "title": "Product three",
+            "price": "5151",
+            "button": "Add to Cart"
+    }
+]
